@@ -1,6 +1,6 @@
 <h3 align="center">Hello, I'm Siew Ching, 19-years old student in University Teknologi Malaysia. 
 
-I bring curiosity and resilience to my studies and balance it with an interest in meaningful conversations and cultural understanding. Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self.</h3>
+<h3 align="left">I bring curiosity and resilience to my studies and balance it with an interest in meaningful conversations and cultural understanding. Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
