@@ -1,8 +1,5 @@
-<h3 align="center">Hello, I'm Siew Ching, 19-years old student in University Teknologi Malaysia. I bring curiosity and resilience to my studies and balance it with an interest in meaningful conversations and cultural understanding. Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siewching27&label=Profile%20views&color=0e75b6&style=flat" alt="siewching27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siewching27" alt="siewching27" /></a> </p>
+<h3 align="center">Hello, I'm Siew Ching, 19-years old student in University Teknologi Malaysia. 
+###I bring curiosity and resilience to my studies and balance it with an interest in meaningful conversations and cultural understanding. Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
