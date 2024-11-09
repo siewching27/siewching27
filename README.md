@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Siew Ching.
 
 
-<h4 align="left">I'm 19 years olds and is currectly studing at University Teknologi Malaysia:hugs:. I bring curiosity and resilience to my studies:school: and balance it with an interest in meaningful conversations and cultural understanding:swimming_woman::weight_lifting_woman:. Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self:star:.</h3>
+<h4 align="left">I'm 19 years olds and is currectly studing at University Teknologi Malaysia :hugs: . I bring curiosity and resilience to my studies :school: and balance it with an interest in meaningful conversations and cultural understanding :swimming_woman: :weight_lifting_woman: . Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self :star: .</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
