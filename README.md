@@ -6,15 +6,15 @@
   
 ```
   
-- 🏠 I’m from **Johor Bahru**
+- 🏠 I’m from Johor Bahru
 
-- 🎵 Interest in food,music, **movies**
+- 🎵 Interest in food,music,movies
 
-- 📆 Born 25/03/2005 **(Aries)**
+- 📆 Born 25/03/2005 (Aries)
 
 - 📗 I’m stuying Bachelor of Cumputer Science (Network and Security) with Honours
 
-- 🎬 Favorite movie : **"US"**
+- 🎬 Favorite movie : "US"
 
 - 👨‍💻 I'm currently working on AI Hackathon
 
