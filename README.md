@@ -1,7 +1,56 @@
-<h1 align="center">Hello, I'm Siew Ching.
+<h2 align="center">Welcome Everyone 👋
+  
+  <h4 align="left">Hello! I’m Chan Siew Ching, a Network and Security student at the University Technologi Malaysia. I’m always driven by curiosity and a love for discovering new things. Whether it’s experimenting with new technologies or traveling to explore different cultures, I enjoy pushing myself out of my comfort zone. I’m passionate about data and how it shapes the world, and I’m excited to dive deeper into this field, all while embracing new adventures and experiences along the way.</h4>
+
+  <h4 align="left"> I never give up and always belive "Knowledge grows as I journey through life."</h4>
+  
+```
+  
+- 🏠 I’m from **Johor Bahru**
+
+- 🎵 Interest in food,music, **movies**
+
+- 📆 Born 25/03/2005 **(Aries)**
+
+- 📗 I’m stuying Bachelor of Cumputer Science (Network and Security) with Honours
+
+- 🎬 Favorite movie : **"US"**
+
+- 👨‍💻 I'm currently working on AI Hackathon
+
+- 🎯 Career Aspiration in Cybersecurity
+
+```
+
+<h3>EDUCATIONAL BACKGROUND:</h3>
+
+  2024:  University Teknologi Malaysia
+  
+  2023-2024:  Kolej Matrikulasi Negeri Sembilan 
+  
+  2018-2023:  SMK Taman Daya
+  
+  2012-2017:  SJK(C) Foon Yew 5
+
+<h3>POSITION</h3>
+
+| Education Level | ACHIEVEMENT |
+| ------------- | ------------- |
+| Secondary School  | President of Kelab Skim Pinjaman Buku Teks   |
+| Matriculation | Vice President of Cocurricular Activities  |
+| Matriculation  | Activity Planner of the Chinese community  |
+| Matriculation | Activity Planner of Veterinar Club  |
+| UTM | Activity Planner of Losting Music  |
+| UTM | Activity Planner of Pesta Tanglung  |
 
 
-<h4 align="left">I'm 19 years olds and is currectly studing at University Teknologi Malaysia :hugs: . I bring curiosity and resilience to my studies :school: and balance it with an interest in meaningful conversations and cultural understanding :swimming_woman: :weight_lifting_woman: . Whether tackling a technical challenge or planning a journey, I approach things with an open mind. I never give up and always belief every journey shapes my true self :star: .</h3>
+
+<h3>CERTIFICATE</h3>
+SPM: 10A
+PSPM: 4.0
+MUET: 4.0
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +63,4 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siewching27&show_icons=true&locale=en" alt="siewching27" /></p>
+
