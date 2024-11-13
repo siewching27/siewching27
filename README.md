@@ -1,9 +1,11 @@
 <h1 align="center">Welcome Everyone 👋</h1>
-  
+
+![image](https://github.com/user-attachments/assets/ca3a9820-521c-4bbb-9934-c6330e1d23a0)
+
   <h4 align="left">Hello! 🤗 I’m Chan Siew Ching, a Network and Security student at the University Technologi Malaysia. I’m always driven by curiosity and a love for discovering new things. Whether it’s experimenting with new technologies or traveling to explore different cultures, I enjoy pushing myself out of my comfort zone.🎊 I’m passionate about data and how it shapes the world, and I’m excited to dive deeper into this field, all while embracing new adventures and experiences along the way.</h4>
 
   <h4 align="left"> I never give up and always belive "Knowledge grows as I journey through life.✨🎉"</h4>
-  
+
 ```
   
 - 🏠 I’m from Johor Bahru
