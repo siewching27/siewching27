@@ -24,7 +24,7 @@
 
 ```
 
-<h3>📚EDUCATIONAL BACKGROUND:</h3>
+## 📚**EDUCATIONAL BACKGROUND**
 
   2024:  University Teknologi Malaysia
   
@@ -37,7 +37,7 @@
 
   
 
-<h3>💡CERTIFICATE</h3>
+## 💡**CERTIFICATE**
 
 | EXAM | RESULT |
 | ------------- | ------------- |
@@ -45,7 +45,7 @@
 | PSPM |4.0|
 | MUET | 4.0   |
 
-<h3>📍POSITION</h3>
+## 📍**POSITION**
 
 | Education Level | ACHIEVEMENT |
 | ------------- | ------------- |
@@ -58,7 +58,7 @@
 
 
 
-<h3>📃COCURICULUM ACTIVITES</h3>
+## 📃**COCURICULUM ACTIVITES**
 
 ```
 -BIOGREEN WEEK 4.0 2023
