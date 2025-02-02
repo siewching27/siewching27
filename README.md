@@ -23,6 +23,8 @@
 - 🎯 Career Aspiration in Cybersecurity
 
 ```
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/bfb7f84a-c239-490f-8374-59ba3b9713d4.gif">
+
 
 ## 📚**EDUCATIONAL BACKGROUND**
 
@@ -33,17 +35,6 @@
   2018-2023:  SMK Taman Daya
   
   2012-2017:  SJK(C) Foon Yew 5
-
-
-  
-
-## 💡**CERTIFICATE**
-
-| EXAM | RESULT |
-| ------------- | ------------- |
-| SPM | 10A   |
-| PSPM |4.0|
-| MUET | 4.0   |
 
 ## 📍**POSITION**
 
@@ -57,10 +48,11 @@
 | UTM | Activity Planner of Pesta Tanglung  |
 
 
-
 ## 📃**COCURICULUM ACTIVITES**
 
 ```
+- AI HACKATHON 2024
+
 -BIOGREEN WEEK 4.0 2023
 
 -PERTANDINGAN PERARAKAN MERDEKA (BERKUMPULAN)
@@ -77,7 +69,14 @@
 
 -UPU TALK （UMK）ONLINE
 ```
+## 💡**EXTRA SKILLS**
 
+- swimming🏊
+- drawing🎨
+- badminton🏸
+- chess♟️
+- mental arithmetic 🟰
+- calligraphy🖌️
 
 
 <h3 align="left">☎Connect with me:</h3>
