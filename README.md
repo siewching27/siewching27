@@ -23,10 +23,10 @@
 - 🎯 Career Aspiration in Cybersecurity
 
 ```
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/bfb7f84a-c239-490f-8374-59ba3b9713d4.gif">
 
 
 ## 📚**EDUCATIONAL BACKGROUND**
+<img align="right" alt="Coding" width="230" src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
 
   2024:  University Teknologi Malaysia
   
@@ -37,6 +37,8 @@
   2012-2017:  SJK(C) Foon Yew 5
 
 ## 📍**POSITION**
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 | Education Level | ACHIEVEMENT |
 | ------------- | ------------- |
@@ -70,6 +72,7 @@
 -UPU TALK （UMK）ONLINE
 ```
 ## 💡**EXTRA SKILLS**
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 - swimming🏊
 - drawing🎨
